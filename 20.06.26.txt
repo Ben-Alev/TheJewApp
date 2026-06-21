@@ -18,7 +18,14 @@ The assembly breaks into groups for a one-hour Torah study session. Children are
 
 You shall love HASHEM, your God, with all your heart, with all your soul, and with all your strength and resources. And these words, which I command you this day, shall be in your heart: And you shall teach them diligently unto your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise up. Amen!
 
+** Open Siddur for Today's parashot **
 
+
+
+
+#SIDDUR#
+
+Siddur Text Here.
 
 
 
